@@ -28,8 +28,8 @@ This commands includes
 <BR>
 • Other IP Commands e.g. show ip route etc.
 <BR>
+## Code:
+## Output:
 
-## Output
-
-## Result
+## Result:
 Thus Execution of Network commands Performed 
